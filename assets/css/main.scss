@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Tulpen+One&display=swap');
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("../images/background-image.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Tulpen One', cursive;
+  color: #EF26F3;
+}
