@@ -18,15 +18,11 @@ export default {
 
 <style>
   .hw-title {
+    font-family: "Tulpen One", cursive;
     font-size: 20rem;
-
-    color: rgba(0,0,0,0.9);
-    text-shadow:
-      3px 3px 0 #EF26F3,
-      -1px -1px 0 #EF26F3,
-      1px -1px 0 #EF26F3,
-      -1px 1px 0 #EF26F3,
-      1px 1px 0 #EF26F3;
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #EF26F3;
 
   }
 </style>
