@@ -1,7 +1,7 @@
 <template>
   <div class="container">
-    <div class="row justify-content-center" style="display:flex; justify-content: center">
-      <h1 class="hw-title">HEARTS&WIRES</h1>
+    <div class="row">
+      <h1>HEARTS & WIRES</h1>
     </div>
   </div>
 </template>
