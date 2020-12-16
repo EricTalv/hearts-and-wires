@@ -21,7 +21,7 @@ export default {
     font-family: "Tulpen One", cursive;
     font-size: 20rem;
     color: transparent;
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: #EF26F3;
 
   }
