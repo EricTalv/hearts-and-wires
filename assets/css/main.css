@@ -7,7 +7,6 @@ body, html {
 
 body {
   background-image: url("../../assets/images/background-image-2.png");
-  background-size: cover;
+  background-size: 2731px 4453px;
   background-color: #030A8C;
-  position: relative;
 }
