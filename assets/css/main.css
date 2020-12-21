@@ -6,10 +6,8 @@ body, html {
 }
 
 body {
-  background-image: url("../../assets/images/background-image.png");
+  background-image: url("../../assets/images/background-image-2.png");
   background-size: cover;
   background-color: #030A8C;
-  height: 1000px;
-  background-repeat: no-repeat;
   position: relative;
 }

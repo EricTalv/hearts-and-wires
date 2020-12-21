@@ -1,54 +1,9 @@
 <template>
   <div class="container">
     <div class="row">
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
-      <Logo></Logo>
+
+      <div class="box"></div>
+
     </div>
   </div>
 </template>
