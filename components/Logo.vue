@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Hello From comp</h1>
     <svg fill="none" viewBox="0 0 757 157" xmlns="http://www.w3.org/2000/svg">
       <g style="mix-blend-mode:screen">
         <path

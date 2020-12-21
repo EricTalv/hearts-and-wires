@@ -8,9 +8,12 @@
 
 <script>
 
+import Logo from '~/components/Logo.vue'
 
 export default {
-  components: true,
+  components: {
+     Logo
+  },
   head() {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
