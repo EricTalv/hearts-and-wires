@@ -5,3 +5,8 @@ body, html {
   margin: 0;
   height: 100%;
 }
+
+body {
+ background-image: url("../../assets/images/background-image.png");
+ background-size: cover;
+}
