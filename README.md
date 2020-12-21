@@ -4,17 +4,20 @@ Heart's and wires is a small upcoming pop-synt-wave band
 
 ## Website Specs 
 
+```
 Hosting: Netlify
 CMS: NetlifyCMS
 Frameworks: Nuxt, Vue.jS
+```
 
 ### Desired Functionality
 
+```
 MVP:
-
 [ ] Blogging 
 [ ] Music Browser
 [ ] About
+```
 
 ## Build Setup
 
