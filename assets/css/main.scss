@@ -16,14 +16,14 @@ body {
 .welcome-title, {
   font-family: 'Tulpen One', cursive;
   color: #EF26F3;
-  font-size: 220px;
+  font-size: 2rem;
   font-weight: bold;
   line-height: 1;
 }
 
 .vr {
   border-left: 2px solid #EF26F3;
-  height: 90%;
+  height: 200px;
 }
 
 .nav-buttons > button {
@@ -42,9 +42,20 @@ body {
   }
 }
 
+@media screen and (min-width: 1000px) {
+  .welcome-title {
+  }
+}
 
 @media screen and (max-width: 980px) {
   .welcome-title {
-    font-size: 120px;
+
   }
+}
+@media screen and (max-width: 900px) {
+
+  .vr {
+    display: none;
+  }
+
 }
