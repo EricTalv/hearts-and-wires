@@ -1,7 +1,7 @@
 <template>
-  <div class="container">
-    <div class="row">
-
+  <div class="container h-100">
+    <div class="row h-100">
+      <h1 class="welcome-title">HEARTS & WIRES</h1>
     </div>
   </div>
 </template>

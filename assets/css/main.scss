@@ -12,3 +12,18 @@ body {
   background-color: #030A8C;
   background-blend-mode: color-burn;
 }
+
+.welcome-title, {
+  font-family: 'Tulpen One', cursive;
+  color: #EF26F3;
+  font-size: 250px;
+  font-weight: 0;
+  line-height: 1;
+
+}
+
+@media screen and (max-width: 980px) {
+  .welcome-title {
+    font-size: 120px;
+  }
+}
