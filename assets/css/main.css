@@ -36,6 +36,7 @@ body {
 }
 .nav-buttons > button:hover {
   color: #35d4bc;
+  margin-left: 5px;
 }
 
 @media screen and (max-width: 980px) {

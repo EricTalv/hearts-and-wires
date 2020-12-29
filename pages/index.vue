@@ -1,32 +1,44 @@
 <template>
   <div class="container h-100">
     <div class="row h-100 align-items-center">
-      <h1 class="welcome-title">HEARTS & WIRES</h1>
-      <div class="vr mx-5"></div>
-      <div class="nav-buttons d-flex flex-column align-items-start">
-        <button>About</button>
-        <button>Music</button>
-        <button>Blog</button>
-        <button>Contact</button>
+
+      <div class="col-12">
+        <div class="col-9">
+          <h1 class="welcome-title">HEARTS & WIRES</h1>
+        </div>
+
+        <div class="vr mx-5"></div>
+
+        <div class="col-3">
+          <div class="nav-buttons d-flex flex-column align-items-start">
+            <button>About</button>
+            <button>Music</button>
+            <button>Blog</button>
+            <button>Contact</button>
+          </div>
+        </div>
+
       </div>
+
+
     </div>
   </div>
 </template>
 
 <script>
 
-import Logo from '~/components/Logo.vue'
+  import Logo from '~/components/Logo.vue'
 
-export default {
-  components: {
-     Logo
-  },
-  head() {
-    return {
-      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
-    };
-  },
-}
+  export default {
+    components: {
+      Logo
+    },
+    head() {
+      return {
+        script: [{src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'}],
+      };
+    },
+  }
 </script>
 
 <style>
