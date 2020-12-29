@@ -2,6 +2,13 @@
   <div class="container h-100">
     <div class="row h-100 align-items-center">
       <h1 class="welcome-title">HEARTS & WIRES</h1>
+      <div class="vr mx-5"></div>
+      <div class="nav-buttons d-flex flex-column align-items-start">
+        <button>About</button>
+        <button>Music</button>
+        <button>Blog</button>
+        <button>Contact</button>
+      </div>
     </div>
   </div>
 </template>

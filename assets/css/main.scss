@@ -16,10 +16,17 @@ body {
 .welcome-title, {
   font-family: 'Tulpen One', cursive;
   color: #EF26F3;
-  font-size: 250px;
+  font-size: 220px;
   font-weight: bold;
   line-height: 1;
 }
+
+.vr {
+  border-left: 2px solid #EF26F3;
+  height: 90%;
+}
+
+.
 
 @media screen and (max-width: 980px) {
   .welcome-title {
