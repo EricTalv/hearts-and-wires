@@ -31,7 +31,11 @@ body {
   color: #EF26F3;
   font-size: 90px;
   border: 0;
-
+  outline: none;
+  transition: all 0.5s;
+}
+.nav-buttons > button:hover {
+  color: #35d4bc;
 }
 
 @media screen and (max-width: 980px) {
