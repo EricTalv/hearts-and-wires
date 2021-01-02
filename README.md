@@ -1,4 +1,4 @@
-# heartsandwires
+# heartsandwires.
 
 Heart's and wires is a small upcoming pop-synt-wave band
 
