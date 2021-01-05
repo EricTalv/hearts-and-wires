@@ -8,10 +8,8 @@
             <h1 class="welcome-title ">HEARTS & WIRES</h1>
           </div>
         </div>
-
       </div>
     </div>
-  </div>
   </div>
 
 </template>
