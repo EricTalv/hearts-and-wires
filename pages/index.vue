@@ -53,7 +53,7 @@ export default {
     background-color: transparent;
     font-family: "Tulpen One", cursive;
     color: #EF26F3;
-    font-size: 10vw;
+    font-size: 6vw;
     border: 0;
     outline: none;
     transition: all 0.5s;
@@ -64,8 +64,13 @@ export default {
   }
 
   @media screen and (max-width: 500px) {
+    .nav-buttons  {
+      display: flex;
+      flex-flow: column;
+    }
+
     .nav-buttons > button {
-      color: red;
+      font-size: 15vw;
     }
   }
 
