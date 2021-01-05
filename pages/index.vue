@@ -47,6 +47,7 @@ export default {
     font-size: 20vw;
     font-weight: bold;
     margin: 0;
+    padding: 0;
   }
 
   .nav-buttons > button {

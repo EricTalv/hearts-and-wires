@@ -8,7 +8,7 @@ body, html, #__nuxt, #__layout, #__default {
 body {
   background-image: url("../../assets/images/background-image-2.png");
   background-size: cover;
-  background-color: #030A8C;
+  background-color: #0911ab;
   background-blend-mode: color-burn;
   background-repeat: no-repeat;
 
