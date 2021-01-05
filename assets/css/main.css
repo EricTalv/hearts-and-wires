@@ -15,16 +15,3 @@ body {
 }
 
 
-.nav-buttons > button {
-  background-color: transparent;
-  font-family: "Tulpen One", cursive;
-  color: #EF26F3;
-  font-size: 5rem;
-  border: 0;
-  outline: none;
-  transition: all 0.5s;
-}
-.nav-buttons > button:hover {
-  color: #35d4bc;
-  margin: 0px 5px 0px 5px;
-}
