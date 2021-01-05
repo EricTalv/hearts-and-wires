@@ -1,12 +1,9 @@
 <template>
   <div class="container-fluid h-100">
-
     <div class="row h-100">
       <div class="col-md-12">
         <div class="row h-100 align-items-center justify-content-center">
-          <div class=" d-flex justify-content-end">
             <h1 class="welcome-title ">HEARTS & WIRES</h1>
-          </div>
         </div>
       </div>
     </div>
