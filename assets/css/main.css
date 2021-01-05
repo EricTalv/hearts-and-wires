@@ -10,6 +10,7 @@ body {
   background-size: cover;
   background-color: #030A8C;
   background-blend-mode: color-burn;
+  background-repeat: no-repeat;
 }
 
 .welcome-title {
