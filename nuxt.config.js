@@ -41,6 +41,7 @@ export default {
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
     '@nuxt/content',
+    'nuxt-gsap',
   ],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)

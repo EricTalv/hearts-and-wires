@@ -15,6 +15,7 @@
     "core-js": "^3.6.5",
     "node-sass": "^5.0.0",
     "nuxt": "^2.14.6",
+    "nuxt-gsap": "^0.1.4",
     "vue": "^2.6.12"
   },
   "devDependencies": {
