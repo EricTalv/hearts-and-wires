@@ -11,12 +11,14 @@ body {
   background-color: #030A8C;
   background-blend-mode: color-burn;
   background-repeat: no-repeat;
+
 }
+
 
 .welcome-title {
   font-family: "Tulpen One", cursive;
   color: #EF26F3;
-  font-size: 12rem;
+  font-size: 15rem;
   font-weight: bold;
   line-height: 1;
 }
