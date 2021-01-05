@@ -15,21 +15,6 @@ body {
 }
 
 
-.welcome-title {
-  font-family: "Tulpen One", cursive;
-  color: #EF26F3;
-  font-size: 15rem;
-  font-weight: bold;
-  line-height: 1;
-}
-
-.vr {
-  border-left: 2px solid #EF26F3;
-  height: 50vw;
-  margin-left: 120px;
-  margin-right: 120px;
-}
-
 .nav-buttons > button {
   background-color: transparent;
   font-family: "Tulpen One", cursive;
@@ -41,5 +26,5 @@ body {
 }
 .nav-buttons > button:hover {
   color: #35d4bc;
-  margin-left: 5px;
+  margin: 0px 5px 0px 5px;
 }

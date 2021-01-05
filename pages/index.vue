@@ -5,11 +5,11 @@
         <div class="row h-100 flex-column align-items-center justify-content-center">
           <h1 class="welcome-title ">HEARTS & WIRES</h1>
           <hr>
-          <div class="navigation-bar">
-            <a href="">About</a>
-            <a href="">Music</a>
-            <a href="">Blog</a>
-            <a href="">Contact</a>
+          <div class="nav-buttons">
+            <button>About</button>
+            <button>Music</button>
+            <button>Blog</button>
+            <button>Contact</button>
           </div>
         </div>
       </div>
@@ -35,9 +35,18 @@ export default {
 </script>
 
 <style>
+
   hr {
-    border-top: 1px solid #EF26F3;
+    border-color: #6f0071;
     width: 40%;
+  }
+
+  .welcome-title {
+    font-family: "Tulpen One", cursive;
+    color: #EF26F3;
+    font-size: 5vw;
+    font-weight: bold;
+    margin: 0;
   }
 </style>
 
