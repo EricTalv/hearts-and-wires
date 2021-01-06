@@ -14,10 +14,10 @@
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-12 ">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-9">
         <h1>About Us</h1>
-        <div class="float-left">
+        <div class="float-left mr-2">
           <img src="https://picsum.photos/200/250" alt="">
         </div>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ipsa. Lorem ipsum dolor sit amet,
@@ -28,6 +28,8 @@
       </div>
 
     </div>
+    <br>
+    <br>
   </div>
 
 </template>
@@ -55,7 +57,7 @@ h1, p {
 }
 
 h1 {
-  font-size: 5vw;
+  font-size: 7vw;
 }
 
 p {
