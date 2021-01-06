@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid h-100">
     <div class="row h-100">
-      <div class="col-md-12">
+      <div class="col-12">
         <div class="row h-100 flex-column align-items-center justify-content-center">
           <h1 class="welcome-title ">HEARTS & WIRES</h1>
           <hr>
@@ -15,7 +15,15 @@
       </div>
     </div>
     <div class="row">
-
+      <h1>About Us</h1>
+      <div class="col-2">
+        <img src="https://picsum.photos/200" alt="">
+      </div>
+      <div class="col-10">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa dolore, doloribus eum excepturi fuga laboriosam odio praesentium quae tempore vero.
+        </p>
+      </div>
     </div>
   </div>
 
@@ -50,7 +58,6 @@ export default {
     font-weight: bold;
     margin: 0;
     padding: 0;
-    height: 165px;
   }
 
   .nav-buttons > button {
