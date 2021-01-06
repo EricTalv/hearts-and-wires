@@ -4,7 +4,6 @@
       <div class="col-md-12">
         <div class="row h-100 flex-column align-items-center justify-content-center">
           <h1 class="welcome-title ">HEARTS & WIRES</h1>
-
           <hr>
           <div class="nav-buttons">
             <button>About</button>
@@ -14,6 +13,9 @@
           </div>
         </div>
       </div>
+    </div>
+    <div class="row">
+
     </div>
   </div>
 
@@ -48,6 +50,7 @@ export default {
     font-weight: bold;
     margin: 0;
     padding: 0;
+    height: 165px;
   }
 
   .nav-buttons > button {
