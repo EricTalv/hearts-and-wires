@@ -18,13 +18,15 @@
       <div class="col-9">
         <h1>About Us</h1>
         <div class="float-left mr-2">
-          <img src="https://picsum.photos/200/250" alt="">
+          <img class="about-img" src="../assets/images/phototogether.jpg" alt="">
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ipsa. Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit. Ad aspernatur, aut beatae cupiditate delectus dicta distinctio doloribus earum
-          eos expedita iste labore magni minima minus modi, necessitatibus obcaecati omnis porro quis quisquam quos
-          reiciendis repudiandae suscipit tempore, veniam! Adipisci, commodi dolore eligendi eos inventore laudantium
-          nostrum reiciendis repellendus ut velit.</p>
+        <div class="about-paragraph">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ipsa. Lorem ipsum dolor sit amet,
+            consectetur adipisicing elit. Ad aspernatur, aut beatae cupiditate delectus dicta distinctio doloribus earum
+            eos expedita iste labore magni minima minus modi, necessitatibus obcaecati omnis porro quis quisquam quos
+            reiciendis repudiandae suscipit tempore, veniam! Adipisci, commodi dolore eligendi eos inventore laudantium
+            nostrum reiciendis repellendus ut velit.</p>
+        </div>
       </div>
 
     </div>
@@ -57,7 +59,7 @@ h1, p {
 }
 
 h1 {
-  font-size: 7vw;
+  font-size: 10vw;
 }
 
 p {
@@ -67,6 +69,17 @@ p {
 hr {
   border-color: #6f0071;
   width: 40%;
+}
+
+.about-paragraph {
+  background-color: rgb(101 101 101 / 16%);
+  opacity: 5;
+}
+
+.about-img {
+  -webkit-box-shadow: 0px 4px 14px 3px rgba(239,38,243,0.31);
+  box-shadow: 0px 4px 14px 3px rgba(239,38,243,0.31);
+  width: 35vw;
 }
 
 .welcome-title {

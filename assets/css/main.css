@@ -10,7 +10,7 @@ body {
   background-size: cover;
   background-color: #0911ab;
   background-blend-mode: color-burn;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 
 }
 
