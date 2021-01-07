@@ -16,16 +16,20 @@
     </div>
     <div class="row justify-content-center align-items-center">
       <div class="col-9">
-        <h1>About Us</h1>
-        <div class="float-left mr-2">
-          <img class="about-img" src="../assets/images/phototogether.jpg" alt="">
-        </div>
-        <div class="about-paragraph">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ipsa. Lorem ipsum dolor sit amet,
-            consectetur adipisicing elit. Ad aspernatur, aut beatae cupiditate delectus dicta distinctio doloribus earum
-            eos expedita iste labore magni minima minus modi, necessitatibus obcaecati omnis porro quis quisquam quos
-            reiciendis repudiandae suscipit tempore, veniam! Adipisci, commodi dolore eligendi eos inventore laudantium
-            nostrum reiciendis repellendus ut velit.</p>
+        <div class="wrapper">
+          <h1>About Us</h1>
+          <div class="float-left mr-2">
+            <img class="about-img" src="../assets/images/phototogether.jpg" alt="">
+          </div>
+          <div class="about-paragraph">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ipsa. Lorem ipsum dolor sit amet,
+              consectetur adipisicing elit. Ad aspernatur, aut beatae cupiditate delectus dicta distinctio doloribus
+              earum
+              eos expedita iste labore magni minima minus modi, necessitatibus obcaecati omnis porro quis quisquam quos
+              reiciendis repudiandae suscipit tempore, veniam! Adipisci, commodi dolore eligendi eos inventore
+              laudantium
+              nostrum reiciendis repellendus ut velit.</p>
+          </div>
         </div>
       </div>
 
@@ -73,12 +77,13 @@ hr {
 
 .about-paragraph {
   background-color: rgb(101 101 101 / 16%);
+
   opacity: 5;
 }
 
 .about-img {
-  -webkit-box-shadow: 0px 4px 14px 3px rgba(239,38,243,0.31);
-  box-shadow: 0px 4px 14px 3px rgba(239,38,243,0.31);
+  -webkit-box-shadow: 0px 4px 14px 3px rgba(239, 38, 243, 0.31);
+  box-shadow: 0px 4px 14px 3px rgba(239, 38, 243, 0.31);
   width: 35vw;
 }
 
