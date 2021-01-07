@@ -16,11 +16,8 @@
     </div>
     <div class="row justify-content-center align-items-center">
       <div class="col-9">
-        <div class="wrapper">
-          <h1>About Us</h1>
-          <div class="float-left mr-2">
-            <img class="about-img" src="../assets/images/phototogether.jpg" alt="">
-          </div>
+        <h1>About Us</h1>
+          <img class="about-img float-left" src="../assets/images/phototogether.jpg" alt="">
           <div class="about-paragraph">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ipsa. Lorem ipsum dolor sit amet,
               consectetur adipisicing elit. Ad aspernatur, aut beatae cupiditate delectus dicta distinctio doloribus
@@ -29,7 +26,6 @@
               reiciendis repudiandae suscipit tempore, veniam! Adipisci, commodi dolore eligendi eos inventore
               laudantium
               nostrum reiciendis repellendus ut velit.</p>
-          </div>
         </div>
       </div>
 
@@ -76,9 +72,13 @@ hr {
 }
 
 .about-paragraph {
-  background-color: rgb(101 101 101 / 16%);
+  background-color: grey;
+  margin-left: 37vw;
+  padding: 10px;
+}
 
-  opacity: 5;
+.about-paragraph > p {
+  margin: 0;
 }
 
 .about-img {
