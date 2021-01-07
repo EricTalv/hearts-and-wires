@@ -72,7 +72,7 @@ hr {
 }
 
 .about-paragraph {
-  background-color: grey;
+  background-color: rgb(0 0 0 / 50%);
   margin-left: 37vw;
   padding: 10px;
 }
