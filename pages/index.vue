@@ -16,7 +16,7 @@
     </div>
     <div class="row justify-content-center align-items-center">
       <div class="col-9">
-        <h1>About Us</h1>
+        <h1 class="about-title">About Us</h1>
           <img class="about-img float-left" src="../assets/images/phototogether.jpg" alt="">
           <div class="about-paragraph">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ipsa. Lorem ipsum dolor sit amet,
@@ -71,10 +71,15 @@ hr {
   width: 40%;
 }
 
+.about-title {
+  border-bottom: 1px solid;
+  margin-bottom: 15px;
+}
+
 .about-paragraph {
   background-color: rgb(0 0 0 / 50%);
   margin-left: 37vw;
-  padding: 10px;
+  padding: 11px;
 }
 
 .about-paragraph > p {
